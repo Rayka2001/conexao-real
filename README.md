@@ -15,7 +15,7 @@ Preview do projeto:
 
 Repositório no GitHub: A definir após a criação do repositório.
 
-Site publicado no GitHub Pages: A definir após a publicação.
+Site publicado no GitHub Pages: (https://rayka2001.github.io/conexao-real/)
 
 2. Objetivos do Projeto
 
