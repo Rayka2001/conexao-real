@@ -13,8 +13,6 @@ Slogan:Menos telas. Mais presença.
 Preview do projeto:  
 [![alt text](image.png)]
 
-Repositório no GitHub: A definir após a criação do repositório.
-
 Site publicado no GitHub Pages: (https://rayka2001.github.io/conexao-real/)
 
 2. Objetivos do Projeto
